@@ -164,3 +164,4 @@ cython_debug/
 
 # 特殊gitignore
 ScreenShot/temp/
+.idea/
